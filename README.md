@@ -19,5 +19,5 @@ I am ✨ Erna Susilowati✨ , Results-driven AI Data Analyst with a strong mathe
 •	Generative AI/ LLM: Langchain, Llama, Vector database, Chroma, Retrieval Augmented Generation (RAG), Prompt engineering
 #📫 How to Reach Me
        
-##❤ By Erna Susilowaty 
+## ❤ By Erna Susilowaty 
 
