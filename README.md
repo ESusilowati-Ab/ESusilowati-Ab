@@ -1,23 +1,97 @@
-Hi, there! It's Erna! 👋
- 
+# Hi there, I'm Erna Susilowati! 👋
 
-🚀 About Me
-I am ✨ Erna Susilowati✨ , Results-driven AI Data Analyst with a strong mathematical foundation (B.Sc. Mathematics Education) and 10+ years of cross-functional business experience across operations, procurement, sales, and education. AI Data Analyst specializing in intelligent analytics applications that combine Python, SQL, Power BI, LLMs, and agentic AI. Experienced in developing AI-powered dashboards, Excel analysis agents, and data analysis copilots that automate data cleaning, generate business insights, answer natural-language questions, and produce executive reports. Passionate about transforming traditional analytics into AI-assisted decision support systems while leveraging 10+ years of business operations experience. Let's connect and explore the fascinating world of data together!
+### 🚀 AI Data Analyst | Business Intelligence | Generative AI
+
+I'm a **Results-driven AI Data Analyst** with a **B.Sc. in Mathematics Education** and **10+ years of cross-functional business experience** across operations, procurement, sales, and education.
+
+I specialize in building **AI-powered analytics solutions** that combine **Python, SQL, Power BI, Large Language Models (LLMs), and Agentic AI** to transform raw data into actionable business insights.
+
+My experience includes developing:
+
+- 🤖 AI-powered Data Dashboards
+- 📊 AI Excel Analysis Agents
+- 🧠 AI Data Analysis Copilots
+- 📈 Executive Reporting Systems
+- ⚡ Intelligent Business Analytics Applications
+
+I'm passionate about transforming traditional analytics into **AI-assisted decision support systems** that improve efficiency and drive smarter business decisions.
+
+---
+
 ## 💡 What I'm Passionate About
 
-- 🤖 Designing AI-powered data analysis applications
-- 📊 Building executive dashboards and BI solutions
-- 🧠 Developing LLM applications with RAG and AI Agents
-- 📈 Turning raw data into strategic business insights
-- 🐍 Automating analytics workflows using Python
-- 🚀 Creating AI copilots that simplify business decision-making
+- 🤖 Designing AI-powered data analytics applications
+- 📊 Building interactive Business Intelligence dashboards
+- 🧠 Developing LLM applications using RAG, LangChain, and AI Agents
+- 📈 Transforming complex data into strategic business insights
+- 🐍 Automating analytics workflows with Python
+- 🚀 Creating AI copilots for business decision-making
 - 📚 Continuously learning Generative AI, Machine Learning, and modern data technologies
-## 🛠 Skills
-•	Programming languages: Python, SQL, DAX, JavaScript
-•	Data Visualization/Business Intelligence: Excel, Tableau, Power BI, Power BI, Streamlit, Looker Studio, Chart.js, Plotly
-•	Data Analysis : NumPy, Pandas
-•	Generative AI/ LLM: Langchain, Llama, Vector database, Chroma, Retrieval Augmented Generation (RAG), Prompt engineering
-## 📫 How to Reach Me
-       
-## ❤ By Erna Susilowaty 
 
+---
+
+## 🛠 Tech Stack
+
+### Programming
+- Python
+- SQL
+- DAX
+- JavaScript
+
+### Data Analytics
+- Pandas
+- NumPy
+- Excel
+
+### Business Intelligence
+- Power BI
+- Tableau
+- Looker Studio
+- Streamlit
+- Plotly
+- Chart.js
+
+### AI & Generative AI
+- LangChain
+- LlamaIndex
+- OpenAI API
+- ChromaDB
+- Vector Databases
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Agents
+
+---
+
+## 📂 Featured Projects
+
+- 🤖 AI Data Dashboard
+- 📊 AI Excel Analysis Agent
+- 🧠 AI Data Analysis Copilot
+- 📈 Power BI Business Dashboard
+- 📉 Tableau Analytics Dashboard
+- 💼 Personal Portfolio Website
+
+---
+
+## 🌱 Currently Learning
+
+- Multi-Agent AI Systems
+- Advanced RAG Architectures
+- MCP (Model Context Protocol)
+- AI Automation Workflows
+- Cloud Data Platforms
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *www.linkedin.com/in/erna-susilowati*
+- 🌐 Portfolio: **
+- 📧 Email: *susilowatye@gmail.com*
+
+---
+
+> *"Turning data into insights, and insights into intelligent business decisions."*
+
+❤️ Thanks for visiting my GitHub profile!
